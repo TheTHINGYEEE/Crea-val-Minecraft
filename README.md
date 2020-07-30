@@ -6,3 +6,5 @@ and you don't care.
 If you right click a specific block, it will get that block for you and replace what you are holding in your hand.
 I know, its dumb, but it is still good?
 
+# By the way, i am a novice coder of Minecraft Plugins.
+
